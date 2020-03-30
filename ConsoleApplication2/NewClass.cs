@@ -12,9 +12,6 @@ namespace ConsoleApplication2
 
         }
 
-        void aaa() {
-
-        }
 
         void mojapromjena(){
 
