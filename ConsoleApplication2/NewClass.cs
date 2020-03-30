@@ -12,4 +12,6 @@ namespace ConsoleApplication2
         
         }
     }
+    
+    //dodana jedna metoda
 }
