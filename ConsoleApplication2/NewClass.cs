@@ -16,6 +16,10 @@ namespace ConsoleApplication2
         void mojapromjena(){
 
         }
+        void promjenajg()
+        {
+        }
+       //dodala jos jednu metodu
     }
     
     //dodana jedna metoda
