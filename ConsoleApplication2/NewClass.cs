@@ -11,5 +11,15 @@ namespace ConsoleApplication2
         void metoda() {
 
         }
+
+        void aaa() {
+
+        }
+
+        void mojapromjena(){
+
+        }
     }
+    
+    //dodana jedna metoda
 }
