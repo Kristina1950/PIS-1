@@ -14,6 +14,9 @@ namespace ConsoleApplication2
             
             //moj dio (Petra Tadić)
             Console.WriteLine("Promjena Programa.cs");
+            //Josipa
+            Console.WriteLine("Promjena #2 Program.cs");
+        
         }
     }
 }
