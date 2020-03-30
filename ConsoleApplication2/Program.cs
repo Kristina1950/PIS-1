@@ -11,6 +11,9 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            
+            //moj dio (Petra Tadić)
+            Console.WriteLine("Promjena Programa.cs");
         }
     }
 }
