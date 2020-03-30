@@ -8,5 +8,8 @@ namespace ConsoleApplication2
 {
     class NewClass
     {
+        void metoda() {
+
+        }
     }
 }
